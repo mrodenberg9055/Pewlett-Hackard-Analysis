@@ -15,6 +15,8 @@
 
 ## Summary
  - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+ - ![alt text](https://github.com/mrodenberg9055/Pewlett-Hackard-Analysis/blob/main/total%20jobs.PNG?raw=true)
+ - As of right now there are 90,398 employees that are are set to retire as a result of the silver tsunami, we'll need to determine if all of those will need to be back-filled or if some of them can be cut.  
  - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 
