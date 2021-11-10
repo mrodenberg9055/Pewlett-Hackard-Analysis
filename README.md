@@ -14,9 +14,9 @@
 
 
 ## Summary
- - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
  - ![alt text](https://github.com/mrodenberg9055/Pewlett-Hackard-Analysis/blob/main/total%20jobs.PNG?raw=true)
  - As of right now there are 90,398 employees that are are set to retire as a result of the silver tsunami, we'll need to determine if all of those will need to be back-filled or if some of them can be cut.  
- - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- Right now there are 1549 employees qualified to enter the mentor program.  If we adjust that age restriction by just 1 year to include employees from 1964 it opens up that list to 19905 employees. 
 
