@@ -9,7 +9,9 @@
 - PH has a little over 90k employees who meet the criteria to retire in the upcoming months, which equates to about 30% of their working staff. 
 - Of the 90k employees eligible to retire over 60% of those employees hold a senior or manager title.
 - Half of the employees that are reaching retirement age are engineers, we would need to be sure that our engineering staff is equiped to handle that type of departure. 
-- 
+- Right now there are about 150k engineers in the company, about 45k of those are set to retire which is about 30% of that workforce 
+![alt text](https://github.com/mrodenberg9055/Pewlett-Hackard-Analysis/blob/main/total_engineers.PNG?raw=true)
+
 
 ## Summary
  - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
